@@ -52,6 +52,11 @@ be a suitable dataset for the given requirements of the project.
 Class: column defines either the image has tumor or not (1 = Tumor, 0 = NonTumor)
 
 ## EDA and Data Transformation
+
+![](images/eda1.png)
+![](images/eda2.png)
+
+
 Following steps were taken to make our data ready for our model :
 1. Detect Missing values
 2. Find if data is balanced or not.
@@ -60,8 +65,7 @@ Following steps were taken to make our data ready for our model :
 5. Outlier detection and removal
 6. Dimensionality Reduction
 7. Feature Normalization
-![](images/eda1.png)<br>
-![](images/eda2.png)
+
 
 ## Machine Learning Algorithms applied : 
 1. Naive Bayes Classifier
@@ -79,4 +83,5 @@ Following steps were taken to make our data ready for our model :
 3. OOB Score and Log Loss
 
 ## Result Analysis
+After seeing the accuracy and cv score of each algorithm and performing hyperparameter tuning on each one using GridSearchCV , the below results were seen : 
 ![](images/result.png)
