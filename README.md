@@ -60,8 +60,7 @@ Following steps were taken to make our data ready for our model :
 5. Outlier detection and removal
 6. Dimensionality Reduction
 7. Feature Normalization
-<br>
-![](images/eda1.png)
+![](images/eda1.png)<br>
 ![](images/eda2.png)
 
 ## Machine Learning Algorithms applied : 
