@@ -1,4 +1,4 @@
-# Brain-Tumour-Classification
+# Brain-Tumor-Classification
 
 ## Project Overview
 Brain tumors account for 85% to 90% of all primary central nervous system
